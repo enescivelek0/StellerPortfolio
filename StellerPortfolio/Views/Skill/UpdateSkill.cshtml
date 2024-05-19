@@ -1,0 +1,19 @@
+﻿@model StellerPortfolio.Models.TblSkill
+@{
+    ViewBag.Title = "UpdateSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3>Yetenek Güncelleme Sayfası</h3>
+
+<form method="post">
+    @Html.HiddenFor(x=>x.SkillID)
+    <label>Yetenek Adı</label>
+    @Html.TextBoxFor(x => x.SkillName, new { @class = "form-control" })
+    <br />
+    <label>Değer</label>
+    @Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-outline-primary">Güncelle</button>
+
+</form>

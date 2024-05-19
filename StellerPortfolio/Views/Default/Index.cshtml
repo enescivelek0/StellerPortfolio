@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+@Html.Action("DefaultFeaturePartial")
+
+@Html.Action("DefaultAboutPartial")
+
+@Html.Action("DefaultServicePartial")
+
+@Html.Action("DefaultSkillPartial")
+
+@Html.Action("DefaultProjectPartial")
+
+@Html.Action("DefaultTestimonialPartial")
+
+<section class="bg-gray p-0 section">
+    <div class="container">
+        <div class="card bg-primary">
+            <div class="card-body text-light">
+                <div class="row align-items-center">
+                    <div class="col-sm-9 text-center text-sm-left">
+                        <h5 class="mt-3">Proje bazlı çalışmalarınıza destek verebilirim.</h5>
+                        <p class="mb-3">Web Uygulaması ve Masaüstü Uygulaması için benimle iletişime geçebilirsiniz.</p>
+                    </div>
+                    <div class="col-sm-3 text-center text-sm-right">
+                        <a class="btn btn-light rounded" href="#contact">İletişime Geç</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="position-relative section">
+    <div class="container text-center">
+        <h6 class="subtitle">İletişim</h6>
+        <h6 class="section-title mb-4">Benimle İletişime Geçebilirsiniz</h6>
+        <p class="mb-5 pb-4">Her türlü soru ve proje çalışmaları için benimle aşağıdaki formdan iletişime geçebilirsiniz.</p>
+
+        <div class="contact text-left">
+            @Html.Action("SendMessage")
+            @Html.Action("DefaultContactInfoPartial")
+        </div>
+    </div>
+</section>
