@@ -1,0 +1,10 @@
+AcunMedya Akademi Nish Eğitimleri kapsamında bitirilen ilk Dinamik Kişisel Portfolyo Projesi.
+![1](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/d20ed956-a206-40c1-8d81-6a258c53bc9f)
+![2](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/c32974ac-61c8-4afe-ac60-e3c74d0c8f53)
+![3](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/78a6a6b5-602c-4b17-ba1b-c4dbe3470ab1)
+![4](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/05ace245-1a2d-4973-89c9-ae016c964db6)
+![5](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/62a2ccf5-b1a0-4a23-b3f1-d285bf55d5f5)
+![6](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/6a8ff532-aea7-4f6c-a01a-766e9a0c6993)
+![Desktop Screenshot 2024 05 19 - 21 24 44 29](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/4197781c-58c1-4bc2-afd6-dc4b16b2c7a3)
+![Desktop Screenshot 2024 05 19 - 21 25 28 49](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/3c8dd811-65bb-4302-a2c7-f20052af3dd6)
+![Desktop Screenshot 2024 05 19 - 21 25 45 52](https://github.com/enescivelek0/StellerPortfolio/assets/60387787/3cc96963-20c0-4f13-8c8f-bad6a4a35c5a)
